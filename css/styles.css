@@ -94,7 +94,7 @@ ul {
   text-align: center;
 }
 
-.button-order {
+.button-service {
   cursor: pointer;
   background: #4d5ae5;
   font-family: inherit;
@@ -105,8 +105,8 @@ ul {
   color: #fff;
 }
 
-.button-order:hover,
-.button-order:focus {
+.button-service:hover,
+.button-service:focus {
   background-color: #404bbf;
 }
 
@@ -157,7 +157,7 @@ ul {
   text-align: center;
 }
 
-.team-card-position {
+.team-card-type {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
