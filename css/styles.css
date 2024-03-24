@@ -46,13 +46,13 @@ ul {
 }
 
 .menu {
+}
+
+.menu-item-link {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-
-.menu-item-link {
   color: #2e2f42;
 }
 
@@ -67,13 +67,13 @@ ul {
 }
 
 .contacts {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 
 .contact-email-link,
 .contact-phone-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -120,6 +120,7 @@ ul {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .feature-text {
@@ -143,6 +144,7 @@ ul {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  color: #2e2f42;
   text-align: center;
   text-transform: capitalize;
 }
@@ -152,6 +154,7 @@ ul {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
   text-align: center;
 }
 
@@ -173,6 +176,7 @@ ul {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  color: #2e2f42;
   text-align: center;
   text-transform: capitalize;
 }
@@ -181,6 +185,7 @@ ul {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
+  color: #2e2f42;
   letter-spacing: 0.02em;
 }
 
