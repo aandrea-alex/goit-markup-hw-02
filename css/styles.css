@@ -85,7 +85,7 @@ header {
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .button-order {
@@ -144,7 +144,7 @@ header {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .team-card-position {
@@ -152,7 +152,7 @@ header {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
+  /* text-align: center; */
   color: #434455;
 }
 
