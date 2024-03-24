@@ -14,7 +14,7 @@ ul {
   padding-left: 0;
 }
 
-.visually-hidden {
+/* .visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -25,7 +25,7 @@ ul {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
+} */
 
 .header-page {
   background-color: #ffffff;
